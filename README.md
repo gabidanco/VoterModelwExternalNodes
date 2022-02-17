@@ -18,6 +18,7 @@ To run the program:
 3) Run the executable file 'voter_dyn_ext.exe'
 
 --------Input files-----------
+
 ---> "seed.in"
 - this is a file with 12 integer numbers separated by blank spaces.
 - this file is updated at the end of each run.
@@ -32,6 +33,7 @@ To run the program:
 - lambda: step used in external influence changes
 
 ---------Output files----------
+
 ---> "ext_corr.dat"
 - odd lines contain the correlation between nodes with state 0 and 
 their n0 influence
